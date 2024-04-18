@@ -1,1 +1,2 @@
-pyinstaller --noconsole iptray.py
+pyinstaller --noconsole --icon=icon.ico iptray.py
+cp icon.ico dist/iptray/
