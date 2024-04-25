@@ -11,6 +11,9 @@
 
 **Cross-Platform Compatibility**: *iptray* is built with cross-platform compatibility in mind, supporting Windows, macOS(compile it yourself 😁✌), and Linux. No matter your operating system of choice, *iptray* has got you covered.
 
+## Screenshot
+![Screenshot](screenshot.png)
+
 ## Installation
 To install *iptray*, simply download the latest release for your operating system from the Releases section of this repository. Extract the zip file and run the executable.
 
